@@ -21,7 +21,7 @@ const progressUpdate = (achievement) => {
 progressUpdate(DAY_FAILED);
 progressUpdate(DAY_FAILED);
 progressUpdate(BARE_MINIMUM);
-progressUpdate(DID_SOMETHING_EXTRA);
+progressUpdate(BOTH_GOALS_ACHIEVED); // This is fine!
 
 
 
