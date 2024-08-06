@@ -23,6 +23,8 @@ progressUpdate(DAY_FAILED);
 progressUpdate(BARE_MINIMUM);
 progressUpdate(BOTH_GOALS_ACHIEVED); // This is fine!
 progressUpdate(BOTH_GOALS_ACHIEVED);
+progressUpdate(BOTH_GOALS_ACHIEVED);
+
 
 
 
