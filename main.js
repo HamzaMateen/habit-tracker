@@ -8,7 +8,7 @@ const BARE_MINIMUM = 1;
 const PREV_MONTH = 0;
 
 // first three days from the July
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 4; i++) {
   squares.insertAdjacentHTML('beforeend', `<li data-level="${PREV_MONTH}"></li>`);
 }
 
@@ -19,9 +19,10 @@ const progressUpdate = (achievement) => {
 
 // starting from August
 progressUpdate(DAY_FAILED);
-progressUpdate(DAY_FAILED);
 progressUpdate(BARE_MINIMUM);
 progressUpdate(BOTH_GOALS_ACHIEVED); // This is fine!
+progressUpdate(BOTH_GOALS_ACHIEVED);
+progressUpdate(BOTH_GOALS_ACHIEVED);
 progressUpdate(BOTH_GOALS_ACHIEVED);
 progressUpdate(BOTH_GOALS_ACHIEVED);
 
