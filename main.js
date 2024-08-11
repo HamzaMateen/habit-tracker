@@ -25,7 +25,10 @@ progressUpdate(BOTH_GOALS_ACHIEVED);
 progressUpdate(BOTH_GOALS_ACHIEVED);
 progressUpdate(BOTH_GOALS_ACHIEVED);
 progressUpdate(BOTH_GOALS_ACHIEVED);
-
+progressUpdate(BOTH_GOALS_ACHIEVED);
+progressUpdate(BOTH_GOALS_ACHIEVED);
+progressUpdate(BOTH_GOALS_ACHIEVED);
+progressUpdate(BOTH_GOALS_ACHIEVED); // aug 12
 
 
 
